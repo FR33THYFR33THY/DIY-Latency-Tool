@@ -28,9 +28,6 @@ Scissors <br>
 Solder <br>
 Wire
 
-## Wiring Diagram
-[Wiring Diagram]()
-
 ## Software
 [Arduino IDE + U8g2 Plugin](https://www.arduino.cc/en/software) <br>
 [Aperture Grille Black to White](https://www.aperturegrille.com/software) <br>
@@ -38,7 +35,11 @@ Wire
 [Programming Guide Reflex (NVIDIA-RTX Streamline)](https://github.com/NVIDIA-RTX/Streamline/blob/main/docs/ProgrammingGuideReflex.md) <br>
 [Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector)
 
+## Wiring Diagram
+[Wiring Diagram](https://github.com/FR33THYFR33THY/DIY-Latency-Tool/blob/main/Wiring%20Diagram.png?raw=true)
+
 ## Configs
+[Configs](https://github.com/FR33THYFR33THY/DIY-Latency-Tool/tree/main/Configs)
 
 ## Video
 [Video](<https://youtu.be/KzVQL117-E0>)
