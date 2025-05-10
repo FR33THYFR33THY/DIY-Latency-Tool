@@ -42,6 +42,6 @@ Wire
 [Configs](https://github.com/FR33THYFR33THY/DIY-Latency-Tool/tree/main/Configs)
 
 ## Video
-[Video](<https://youtu.be/KzVQL117-E0>)
+[Video](<https://youtu.be/OrdjtqZ9vZE>)
 
-[![Video](https://img.youtube.com/vi/KzVQL117-E0/maxresdefault.jpg)]([https://www.youtube.com/watch?v=KzVQL117-E0](https://youtu.be/KzVQL117-E0))
+[![Video](https://img.youtube.com/vi/OrdjtqZ9vZE/maxresdefault.jpg)]([https://www.youtube.com/watch?v=OrdjtqZ9vZE](https://youtu.be/OrdjtqZ9vZE))
