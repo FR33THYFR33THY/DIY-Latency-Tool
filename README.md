@@ -40,6 +40,8 @@ Wire
 
 ## Configs
 
+## Variation Info
+
 ## Video
 [Video](<https://youtu.be/KzVQL117-E0>)
 
