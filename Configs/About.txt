@@ -1,0 +1,50 @@
+About Configs
+-------------
+Values below 2 ms or above 50 ms are considered errors and discarded.
+
+Photoresistor light values are calibrated to the lowest level possible without introducing errors.
+These settings may need to be relaxed when measuring muzzle flash instead of the reflex flash box.
+
+
+Arduino_Click
+-------------
+---Board must be plugged into PC---
+1. Arduino device acts as a mouse
+2. Triggers left mouse click in intervals
+3. Measures latency on light flash
+---Measurments do not include mouse latency---
+
+
+Arduino_Paint
+-------------
+---Board must be plugged into PC---
+1. Arduino device acts as a mouse
+2. Triggers right mouse click and left mouse click in intervals
+3. Measures latency on light flash
+---Measurments do not include mouse latency---
+
+
+Arduino_UE4
+-----------
+---Board must be plugged into PC---
+1. Arduino device acts as a mouse and keyboard
+2. Triggers left mouse click and "b" key in intervals
+3. Measures latency on light flash
+---Measurments do not include mouse latency---
+
+
+Mouse_Auto_Click
+----------------
+---Board can be powered seperately (Useful for anticheat)---
+1. Arduino device toggles external mouse to click
+2. Triggers left mouse click in intervals
+3. Measures latency on light flash
+---Measurments include mouse latency---
+
+
+Mouse_Manual_Click
+------------------
+---Board can be powered seperately (Useful for anticheat)---
+1. User manually clicks left mouse click in intervals
+2. Measures latency on light flash
+---Measurments include mouse latency---
