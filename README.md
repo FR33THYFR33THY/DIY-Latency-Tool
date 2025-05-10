@@ -26,15 +26,19 @@ Glue Stick <br>
 Glue Gun <br>
 Scissors <br>
 Solder <br>
-Wire <br>
+Wire
 
 ## Wiring Diagram
-![image](https://github.com/user-attachments/assets/d0b43cc0-2a81-4cf4-8148-3f376107725a)
+[Wiring Diagram]()
 
-## Software Needed
+## Software
 [Arduino IDE + U8g2 Plugin](https://www.arduino.cc/en/software) <br>
 [Aperture Grille Black to White](https://www.aperturegrille.com/software) <br>
+[Force Reflex Flash (NVIDIA-RTX Streamline)](https://github.com/NVIDIA-RTX/Streamline/tree/main) <br>
+[Programming Guide Reflex (NVIDIA-RTX Streamline)](https://github.com/NVIDIA-RTX/Streamline/blob/main/docs/ProgrammingGuideReflex.md) <br>
+[Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector)
 
+## Configs
 
 ## Video
 [Video](<https://youtu.be/KzVQL117-E0>)
